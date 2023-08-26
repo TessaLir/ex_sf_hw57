@@ -1,0 +1,4 @@
+.env
+
+dbdata/*
+!dbdata/.local
